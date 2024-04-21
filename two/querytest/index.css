@@ -1,0 +1,47 @@
+.goodnews {
+    background-color: #FFF;
+  }
+  
+  .goodnews-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 1500px;
+    height: 700px;
+    margin: 0 auto;
+    gap: 10px;
+    margin-top: 150px;
+  }
+  
+  .newsflex img {
+    margin-top: -50px;
+  }
+  
+  .newsflex h3 {
+    margin-left: 30px;
+    color: #262626;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: normal;
+  }
+  
+  .starbox i.fa-solid.fa-star {
+    color: #FBBF24;
+  }
+  
+  .absimg,
+  .absimgr {
+    position: absolute;
+  }
+  
+  .absimg {
+    left: 211px;
+  }
+  
+  .absimgr {
+    right: 211px;
+  }
+  
+  
